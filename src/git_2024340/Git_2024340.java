@@ -4,17 +4,16 @@
  */
 package git_2024340;
 
+import java.io.FileReader;
+import java.util.Scanner;
 /**
  *
  * @author user
  */
 public class Git_2024340 {
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
+public static void main(String[] args) {
+       
+        System.out.println("Gabriel Soares - 2024340");
     }
-    
 }
